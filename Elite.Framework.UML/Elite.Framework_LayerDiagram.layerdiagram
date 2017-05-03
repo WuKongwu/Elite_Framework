@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="0fbebf0b-411b-48e7-b85c-23d9a3886130" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="114f060a-4208-4468-8fae-26c1422c4126" name="Base">
+      <childLayers>
+        <layer Id="4bafb870-150f-4a15-8824-383bafeac34c" name="Base.Model" />
+        <layer Id="bfc48e21-a472-4565-a470-c64b8f3ec140" name="Base.Interface" />
+        <layer Id="3395f874-9377-4069-a59d-3ff9ce3fff97" name="Base.Class&#xD;&#xA;" />
+      </childLayers>
+    </layer>
+    <layer Id="c0a60063-e1c1-4bd5-8a2a-742fc82cc14a" name="Common">
+      <childLayers>
+        <layer Id="e7c905b7-48ed-414f-b7d9-eb8a048d0834" name="Log" />
+        <layer Id="b171525d-e8ad-488f-8b99-549e433c09dd" name="Session" />
+        <layer Id="fec41776-420e-4046-99d7-51227ae999ea" name="Upload" />
+        <layer Id="8cd5ce29-0aef-4e36-8d4e-cba6117a3889" name="......." />
+      </childLayers>
+    </layer>
+    <layer Id="55ea7ca4-230a-40a2-808b-8f6f0025b852" name="Elite.Framework" />
+    <layer Id="2d4864d3-3bad-4cef-bf54-95930b217535" name="Data">
+      <childLayers>
+        <layer Id="8eb41e19-e1af-4a80-a433-7587a88d198d" name="Entity framework&amp;Nhibernate" />
+        <layer Id="8c99e0b1-11f1-4151-bc75-9e3de7215be4" name="Autofac" />
+      </childLayers>
+    </layer>
+  </layers>
+</layerModel>
